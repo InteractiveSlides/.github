@@ -10,23 +10,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/talkAnimate/talkAnimate">
+  <a href="https://github.com/InteractiveSlides/InteractiveSlides">
     <img src="/images/logo.png" alt="Logo" height="80">
   </a>
 
-  <h3 align="center">talkAnimate</h3>
+  <h3 align="center">InteractiveSlides</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/talkAnimate/talkAnimate"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/InteractiveSlides/InteractiveSlides"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/talkAnimate/talkAnimate">View Demo</a>
+    <a href="https://github.com/InteractiveSlides/InteractiveSlides">View Demo</a>
     ·
-    <a href="https://github.com/talkAnimate/talkAnimate/issues">Report Bug</a>
+    <a href="https://github.com/InteractiveSlides/InteractiveSlides/issues">Report Bug</a>
     ·
-    <a href="https://github.com/talkAnimate/talkAnimate/issues">Request Feature</a>
+    <a href="https://github.com/InteractiveSlides/InteractiveSlides/issues">Request Feature</a>
   </p>
 </div>
 
@@ -155,7 +155,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Chinese
     - [ ] Spanish
 
-See the [open issues](https://github.com/talkAnimate/talkAnimate/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/InteractiveSlides/InteractiveSlides/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -219,18 +219,18 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/talkAnimate/talkAnimate.svg?style=for-the-badge
-[contributors-url]: https://github.com/talkAnimate/talkAnimate/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/talkAnimate/talkAnimate.svg?style=for-the-badge
-[forks-url]: https://github.com/talkAnimate/talkAnimate/network/members
-[stars-shield]: https://img.shields.io/github/stars/talkAnimate/talkAnimate.svg?style=for-the-badge
-[stars-url]: https://github.com/talkAnimate/talkAnimate/stargazers
-[issues-shield]: https://img.shields.io/github/issues/talkAnimate/talkAnimate.svg?style=for-the-badge
-[issues-url]: https://github.com/talkAnimate/talkAnimate/issues
-[license-shield]: https://img.shields.io/github/license/talkAnimate/talkAnimate.svg?style=for-the-badge
-[license-url]: https://github.com/talkAnimate/talkAnimate/blob/main/Licence.txt
+[contributors-shield]: https://img.shields.io/github/contributors/InteractiveSlides/InteractiveSlides.svg?style=for-the-badge
+[contributors-url]: https://github.com/InteractiveSlides/InteractiveSlides/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/InteractiveSlides/InteractiveSlides.svg?style=for-the-badge
+[forks-url]: https://github.com/InteractiveSlides/InteractiveSlides/network/members
+[stars-shield]: https://img.shields.io/github/stars/InteractiveSlides/InteractiveSlides.svg?style=for-the-badge
+[stars-url]: https://github.com/InteractiveSlides/InteractiveSlides/stargazers
+[issues-shield]: https://img.shields.io/github/issues/InteractiveSlides/InteractiveSlides.svg?style=for-the-badge
+[issues-url]: https://github.com/InteractiveSlides/InteractiveSlides/issues
+[license-shield]: https://img.shields.io/github/license/InteractiveSlides/InteractiveSlides.svg?style=for-the-badge
+[license-url]: https://github.com/InteractiveSlides/InteractiveSlides/blob/main/Licence.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/talkAnimate
+[linkedin-url]: https://linkedin.com/in/InteractiveSlides
 [product-screenshot]: /images/image1.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
